@@ -1,0 +1,11 @@
+.outer-div {
+    border: 3px solid red;
+}
+
+.first-layer-div {
+    border: 3px solid blue;
+}
+
+.second-layer-div {
+    border: 3px solid green;
+}
